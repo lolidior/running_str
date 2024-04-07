@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 def run_str():
-    text = "123456789012345678901234567890"
+    text = input()
     
     w, h = 100, 100
     fr = 24
